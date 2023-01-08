@@ -1,0 +1,3 @@
+[submodule "web/themes/goa"]
+	path = web/themes/goa
+	url = https://github.com/kaapiandcode/hugo-goa
