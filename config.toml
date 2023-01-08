@@ -95,6 +95,7 @@ displayrssicon = true
     url = "/about/"
 [[menu.main]]
     name = "resume"
+    identifier = "resume"
     weight = 300
     url = "/resume.pdf"
 ###
