@@ -93,6 +93,10 @@ displayrssicon = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "resume"
+    weight = 300
+    url = "/resume.pdf"
 ###
 #[[menu.main]]
 #    name = "coderag"
